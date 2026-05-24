@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is AI?",
+    "answer": "Artificial Intelligence is the simulation of human intelligence by machines."
+  },
+  {
+    "question": "What is NLP?",
+    "answer": "Natural Language Processing allows computers to understand human language."
+  },
+  {
+    "question": "How are you?",
+    "answer": "I'm just a chatbot, but I'm doing great!"
+  }
+]
