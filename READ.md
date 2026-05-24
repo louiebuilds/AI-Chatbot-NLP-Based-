@@ -32,4 +32,17 @@ Cosine Similarity Matching
 Best Match Selected  
 ↓  
 Response Returned  
-``
+---
+
+### 💼 Business Value
+- Automates FAQ responses
+- Reduces manual support workload
+- Demonstrates conversational AI capabilities
+---
+
+### ▶️ How to Run
+```bash
+git clone https://github.com/your-repo/ai-chatbot.git
+cd ai-chatbot
+pip install -r requirements.txt
+python app.py
