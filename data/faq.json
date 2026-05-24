@@ -10,5 +10,9 @@
   {
     "question": "How are you?",
     "answer": "I'm just a chatbot, but I'm doing great!"
-  }
+  },
+  {
+  "question": "What is machine learning?",
+  "answer": "Machine learning is a subset of AI that allows systems to learn from data."
+}
 ]
